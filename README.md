@@ -26,29 +26,26 @@ Developed content for, as well as performed the following tasks:
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Project Scenario:  <br/>
+<b>Project Scenario:</b>  <br />
 <img src="https://i.imgur.com/qVqBZJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />  
+<b>Install Oracle VirtualBox:</b> <br />
+<img src="https://i.imgur.com/Jrrj3lR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br /> 
+<b>Install Windows Server 2019 ISO in VM:</b> <br />
+<img src="https://i.imgur.com/NTMjlL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br /> 
+<b>Install Windows 10 ISO in VM:</b> <br />
+<img src="https://i.imgur.com/DLG2F9L.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /></b></b>
 <br />
-<br />Launch the utility: <br/>
-<img src="https://i.imgur.com/EHprKwH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<b>Rename the Network Connections:</b> <br />
+<img src="https://i.imgur.com/cmOWLxi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /></b></b>
 <br />
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br /></b></b>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
