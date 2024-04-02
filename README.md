@@ -32,23 +32,27 @@ Developed content for, as well as performed the following tasks:
 <b>Install Oracle VirtualBox:</b> <br />
 <img src="https://i.imgur.com/Jrrj3lR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br /> 
-<b>Install Windows Server 2019 ISO in VM:</b> <br />
+<b>Install Windows Server 2019 ISO on VM:</b> <br />
 <img src="https://i.imgur.com/NTMjlL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br /> 
-<b>Install Windows 10 ISO in VM:</b> <br />
+<b>Install Windows 10 ISO on VM:</b> <br />
 <img src="https://i.imgur.com/DLG2F9L.png"80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /></b></b>
-<br />
+<br /><br /><br /> 
 <b>Rename the Network Connections:</b> <br />
-<img src="https://i.imgur.com/cmOWLxi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /></b></b>
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /></b></b>
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ypDq1sx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br /> 
+<b>Set (TCP/IP) properties for Internal Connection:</b> <br />
+<img src="https://i.imgur.com/ZJ9szlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />
+<b>Install Active Directory Domain Services on Server:</b> <br />
+<img src="https://i.imgur.com/Nr6S8Dx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />
+<b>Set a domain name:</b> <br />
+<img src="https://i.imgur.com/j7lQcqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />
+<b>Set Admin Organization Unit:</b> <br />
+<img src="https://i.imgur.com/4TFp8RS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />
 </p>
 
 <!--
