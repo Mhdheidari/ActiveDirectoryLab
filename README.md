@@ -53,6 +53,11 @@ Developed content for, as well as performed the following tasks:
 <b>Set Admin Organization Unit:</b> <br />
 <img src="https://i.imgur.com/4TFp8RS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br />
+<b>Creat Admin User:</b> <br />
+<img src="https://i.imgur.com/s7M1T5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/rBPHtrY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />
 </p>
 
 <!--
