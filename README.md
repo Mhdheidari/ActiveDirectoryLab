@@ -83,7 +83,15 @@ Allow Client1 on Windows 10 to to get IP address that get them allow to browse t
 <img src="https://i.imgur.com/2CgXxYR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/YrDfOQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br /><br /><br />
+<b>Create sample users by PowerShell:</b> <br />
+Enable excecution of the scripts:
+<img src="https://i.imgur.com/v9e1Orw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+<img src="https://i.imgur.com/FuUvwfS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+
   
 </p>
 <!--
