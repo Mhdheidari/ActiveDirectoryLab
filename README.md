@@ -92,7 +92,7 @@ Allow Client1 on Windows 10 to to get IP address that get them allow to browse t
 <img src="https://i.imgur.com/vGk1Vvu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <img src="https://i.imgur.com/DdepuLs.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
+<br /><br /><br />
 <b>Create New VM as a Client1 and install Windows 10 ISO:</b> <br />
 <img src="https://i.imgur.com/G4w0cm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -100,7 +100,8 @@ Allow Client1 on Windows 10 to to get IP address that get them allow to browse t
 <br />
 <img src="https://i.imgur.com/InDi0Vp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />  
-
+<img src="https://i.imgur.com/ElQ8ABN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />  
 
 
   
