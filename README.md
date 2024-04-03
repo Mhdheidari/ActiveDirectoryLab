@@ -90,6 +90,8 @@ Enable excecution of the scripts:
 <br /> 
 <img src="https://i.imgur.com/FuUvwfS.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
+<img src="https://i.imgur.com/vGk1Vvu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 
 
   
