@@ -4,7 +4,7 @@
 Developed content for, as well as performed the following tasks:
 - Active Directory Administration:
   - PowerShell: Automated provisioning and deprovisioning of user accounts
-- Setting up Remote Access Server (RAS) features to support NAT/PAT
+- Setting up Remote Access Server (RAS) features to support Network Address Translation (NAT)
 - Implementation and maintenance of Windows DNS and DHCP services
 - Configuration of Windows File Servers with implementation of quotas and NTFS permissions
 
@@ -47,10 +47,10 @@ Developed content for, as well as performed the following tasks:
 <b>Install Active Directory Domain Services on Server:</b> <br />
 <img src="https://i.imgur.com/Nr6S8Dx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br />
-<b>Set a domain name:</b> <br />
+<b>Creat a domain name:</b> <br />
 <img src="https://i.imgur.com/j7lQcqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br />
-<b>Set Admin Organization Unit:</b> <br />
+<b>Creat Admin Organization Unit:</b> <br />
 <img src="https://i.imgur.com/4TFp8RS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br />
 <b>Creat Admin User:</b> <br />
@@ -58,8 +58,34 @@ Developed content for, as well as performed the following tasks:
 <br />
 <img src="https://i.imgur.com/rBPHtrY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /><br /><br />
+<b>Setup Remote Access Server (RAS):</b> <br />
+Allow Client1 on Windows 10 to access to the internet throughout the Domain Controller (DC)
+<img src="https://i.imgur.com/NLCb2IK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/VWLf3IN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/lFy3Z2f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/r5c6MSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/aMvmNWl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br />
+<b>Setup DHCP Server on Domain Controller:</b> <br />
+Allow Client1 on Windows 10 to to get IP address that get them allow to browse the internet
+<img src="https://i.imgur.com/7Ch2ik2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+<img src="https://i.imgur.com/D0LfRvA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/TtLou4W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/uWqG8O0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/2CgXxYR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/YrDfOQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
 </p>
-
 <!--
  ```diff
 - text in red
