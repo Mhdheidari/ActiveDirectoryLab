@@ -101,10 +101,12 @@ Allow Client1 on Windows 10 to to get IP address that get them allow to browse t
 <img src="https://i.imgur.com/InDi0Vp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />  
 <img src="https://i.imgur.com/ElQ8ABN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><br /> 
+<b>Change the computer name and login with one of the users:</b> <br />
+<img src="https://i.imgur.com/4CWkkpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/lnnjo5X.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />  
-
-
-  
 </p>
 <!--
  ```diff
